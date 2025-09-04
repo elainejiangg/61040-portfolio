@@ -9,7 +9,7 @@ Some fun facts about me:
 3. I was in Arizona for the summer ☀️ (ask me how hot it was).
 4. I like Calvin and Hobbes comics. their profoundness is unreal
 
-![calvin and hobbes on a log](https://stickershock23.com/wp-content/uploads/2016/07/calvin-hobbs-on-tree.png)
+[![calvin and hobbes on a log](https://stickershock23.com/wp-content/uploads/2016/07/calvin-hobbs-on-tree.png)](https://www.gocomics.com/calvinandhobbes)
 
  *p.s. here's my dog*
 
