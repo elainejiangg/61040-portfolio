@@ -3,11 +3,11 @@
 Now you should write something about yourself here!*
 
 Some fun facts about me:
-1. I love cooking (+ neapolitan pizza especially, ask me about my basil farm in my dorm).
+1. I love cooking (+ Neapolitan pizza especially, ask me about my basil farm in my dorm).
 2. I like to citi-bike in Central Park and feel the wind in my face like a dog.
 3. I was in Arizona for the summer ☀️ (ask me how hot it was).
 
-![a happy goldendoodle rolling in lush soft green grass](assets/happyLily.heic)
+![a happy goldendoodle rolling in lush soft green grass](assets/happyLily.jpg)
 
 
 # Table of Contents
