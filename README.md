@@ -1,6 +1,5 @@
 # About Me
-*My name is Elaine Jiang, I'm a junior undergraduate studying 6-4 (Artificial Intelligence & Decision-Making), it's nice to meet you! [Here is a link to my real website.](https://elainejiang.com)
-Now you should write something about yourself here!*
+*My name is Elaine Jiang, I'm a junior undergraduate studying 6-4 (Artificial Intelligence & Decision-Making), it's nice to meet you!*
 
 Some fun facts about me:
 1. I love cooking (+ Neapolitan pizza especially, ask me about my basil farm in my dorm).
