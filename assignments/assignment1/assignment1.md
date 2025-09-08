@@ -184,7 +184,7 @@ Candidates face burnout cycles, procrastination, and confidence dips that reduce
 
 ---
 
-## Evidence (for each 3 selected problems, list 10 links of evidence)
+## Evidence
 
 ### 1. Problem: **Deadline Information is Fragmented Across Platforms**
 
