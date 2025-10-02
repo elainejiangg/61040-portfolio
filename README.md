@@ -11,6 +11,8 @@
 | [Assignment 1: Problem Framing](./assignments/assignment1/assignment1.md)                         | _Sep 7, 2025 11:59 PM_  |
 | [Problem Set 1: Concept Design: Reading and Writing Concepts](./psets/pset1/pset1.md) | _Sep 14, 2025 11:59 PM_ |
 | [Problem Set 2: Composing Concepts](./psets/pset2/pset2.md) | _Sep 21, 2025 11:59 PM_ |
+| [Assignment 2: Functional Design](./assignments/assignment2/assignment2.md) | _Sep 28, 2025 11:59 PM_ |
+
 ---
 
 ## About Me
